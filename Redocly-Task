@@ -1,0 +1,21 @@
+Redoc API System
+We need to install this
+  ttps://redocly.com/docs/
+ We will use Gitlab for source control (not github directly)
+
+ 
+ Target State will allow us to develop something that looks like this:
+ https://redocly.github.io/redoc/
+
+ 
+ We will need to install Redocly CLI
+ https://redocly.com/docs/cli/
+
+ Use the Multifile approach
+
+ We also need to run locally, as per this post:
+            
+ https://redocly.com/docs/redoc/deployment/intro/#how-to-run-redoc-locally
+
+ 
+ Note: I do not fully understand the relationship between Redocly and Redoc. Please pass on any questions, and I’ll get answers.
