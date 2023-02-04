@@ -6,17 +6,17 @@ publish_mode: editorial_workflow
 media_folder: static/img
 public_folder: /img
 collections:
-  - name: posts
-    label: Posts
-    label_singular: 'Post'
-    folder: content/posts
+  - name: blogs
+    label: Blogs
+    label_singular: 'Blog'
+    folder: blog/
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields:
       - label: Template
         name: template
         widget: hidden
-        default: post
+        default: blog
       - label: Title
         name: title
         widget: string
