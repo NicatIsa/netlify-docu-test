@@ -4,7 +4,7 @@ backend:
   repo: NicatIsa/netlify-docu-test.git
 publish_mode: editorial_workflow
 media_folder: static/img
-public_folder: /media
+public_folder: /img
 collections:
   - name: posts
     label: Posts
