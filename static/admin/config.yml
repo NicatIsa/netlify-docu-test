@@ -1,7 +1,7 @@
 backend:
   name: github
   branch: master 
-  repo: NicatIsa/netlify-docu-test.git
+  repo: NicatIsa/netlify-docu-test
 publish_mode: editorial_workflow
 media_folder: static/img
 public_folder: /img
